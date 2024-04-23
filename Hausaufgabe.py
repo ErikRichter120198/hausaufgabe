@@ -1,0 +1,1 @@
+print("Apfel Banane Lol ist mein 6. Versuch da was zu machen")
